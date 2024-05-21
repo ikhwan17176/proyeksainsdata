@@ -16,8 +16,8 @@ from sklearn.cluster import DBSCAN
 from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.feature_extraction.text import TfidfVectorizer
-data = pd.read_excel(r"D:\Tel U\Semester 6\Proyek Sains Data\data_text.xlsx")
-data_cloud =pd.read_excel(r"D:\Tel U\Semester 6\Proyek Sains Data\data_wordcloud.xlsx")
+data = pd.read_excel(r"data_text.xlsx")
+data_cloud =pd.read_excel(r"data_wordcloud.xlsx")
 
 st.title('Indentifikasi Pola dan Jenis Hotel dengan DBSCAN')
 # Sidebar menu
