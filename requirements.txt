@@ -1,7 +1,6 @@
 streamlit
 beautifulsoup4
 pandas
-re
 matplotlib.pyplot
 wordcloud
 nltk
