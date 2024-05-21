@@ -4,13 +4,9 @@ pandas
 matplotlib.pyplot
 wordcloud
 nltk
-nltk.corpus
-nltk.tokenize
-nltk.stem
 string
 numpy
 sklearn.cluster
-mplcursors
 sklearn.cluster
 sklearn.metrics
 sklearn.preprocessing
